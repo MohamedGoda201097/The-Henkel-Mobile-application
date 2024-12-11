@@ -6,3 +6,5 @@ Requirements Analysis: Conducted a thorough review of Software Requirements Spec
 Test Case Development and Execution: Designed, executed, and maintained detailed test cases to validate various application functionalities, ensuring comprehensive test coverage.
 
 Manual and Regression Testing: Performed rigorous manual testing and regression testing on the mobile application to ensure its performance, reliability, and user experience quality
+
+The link of the Henkel project : https://drive.google.com/drive/u/0/home
